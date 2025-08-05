@@ -26,7 +26,9 @@
 ### 📂 Featured Projects
 
 🔌 **SMART COGNITIVE GLASS.(https://github.com/KarunRPillai/-SMART-COGNITIVE-GLASS-)** — This smart eyewear system aims to provide real-time information processing
-📟 **Voice-Trained-Nurse-Assistant-Robot.(your-repo-link)** — A PIC16F877A-based line-following robot with obstacle detection and voice recognition to assist nurses by remotely collecting and displaying patient requests. 
+
+📟 **Voice-Trained-Nurse-Assistant-Robot.(https://github.com/KarunRPillai/Voice-Trained-Nurse-Assistant-Robot)** — A PIC16F877A-based line-following robot with obstacle detection and voice recognition to assist nurses by remotely collecting and displaying patient requests. 
+
 > *More projects coming soon — currently organizing and updating repositories.*
 
 ---
